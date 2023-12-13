@@ -6,3 +6,6 @@ The system adeptly processes input data from external files, featuring curated c
 A notable feature of the application is its interactive testing capability. Users can initiate the algorithmic evaluation by providing image URLs through the terminal. The system promptly processes the input and outputs a classification result, categorizing the image as depicting a human or a horse.
 
 This project exemplifies a sophisticated approach to image classification, utilizing cutting-edge techniques in neural network design and seamless TensorFlow integration. The incorporation of a dedicated validation folder enhances the model's robustness by providing additional diverse images for thorough validation and testing, reinforcing the commitment to achieving accurate and nuanced classification in the domain of horse-human image discrimination.
+
+if you want the dataset I used you can download it from this link
+https://drive.google.com/file/d/1SjJx6xwGhGShb9MSO1L8_YTTyVcbuAIm/view?usp=sharing
