@@ -1,4 +1,8 @@
 # Horses-or-humans
-this project is a simple Tensorflow project on binary classification between horses and humans using TensorFlow and CNNs.
+This project encapsulates a TensorFlow-based binary classification system, meticulously designed for the discrimination of images depicting horses and humans. Leveraging Convolutional Neural Networks (CNNs) and a tailored custom model architecture, the application seamlessly integrates with external data sources. This includes the incorporation of an extensive validation dataset, housed in a dedicated folder, comprising additional diverse images of both humans and horses.
 
-I created it to receive input data from an external file that contains pictures of humans and horses using convolution networks and custom model design. the app allows you to test the algorithm by entering a URL of an image into the terminal and it will output whether the picture is of a human or a horse. 
+The system adeptly processes input data from external files, featuring curated collections of images for comprehensive training. Convolutional networks play a pivotal role in the algorithm, harnessing the capabilities of deep learning to discern intricate patterns within the images.
+
+A notable feature of the application is its interactive testing capability. Users can initiate the algorithmic evaluation by providing image URLs through the terminal. The system promptly processes the input and outputs a classification result, categorizing the image as depicting a human or a horse.
+
+This project exemplifies a sophisticated approach to image classification, utilizing cutting-edge techniques in neural network design and seamless TensorFlow integration. The incorporation of a dedicated validation folder enhances the model's robustness by providing additional diverse images for thorough validation and testing, reinforcing the commitment to achieving accurate and nuanced classification in the domain of horse-human image discrimination.
